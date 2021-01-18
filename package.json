@@ -1,0 +1,10 @@
+{
+  "name": "ipv_stock",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "express": "^4.17.1"
+  }
+}
